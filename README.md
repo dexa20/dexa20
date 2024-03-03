@@ -14,5 +14,5 @@ I'm a 19-year-old software engineering student with a background in Mathematics.
 
 ## 📫 How to reach me
 - **LinkedIn:** [www.linkedin.com/in/dinira-pathirana-592a68268]
-- **GitHub:** [Insert your GitHub profile URL here]
+- **GitHub:** [https://github.com/dexa20]
 
