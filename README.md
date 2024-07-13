@@ -7,12 +7,11 @@ I'm a 19-year-old software engineering student with a background in Mathematics.
 - **Languages:** C++, Python, C#
 - **Web Development:** HTML, CSS, JavaScript
 - **Mobile Development:** Flutter, Dart
-- **Interests:** React.js, Next.js
+- **Interests:** AI, Machine Learning
 
 ## 🌱 I’m currently learning
-- Enhancing my web development skills with React.js and Next.js.
+- Enhancing my knowledge and skills in AI and Machine Learning.
 
 ## 📫 How to reach me
 - **LinkedIn:** [www.linkedin.com/in/dinira-pathirana-592a68268]
 - **GitHub:** [https://github.com/dexa20]
-
