@@ -1,7 +1,7 @@
 # Hello! I'm Dexa Milan 👋
 
 ## 🎓 Undergraduate at University of Central Lancashire
-I'm a 19-year-old software engineering student with a background in Mathematics.
+I'm a 20-year-old software engineering student with a background in Mathematics.
 
 ## 🛠 Skills
 - **Languages:** C++, Python, C#
