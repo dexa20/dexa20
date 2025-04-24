@@ -1,4 +1,4 @@
-# Hello! I'm Dinira Pathirana 👋
+# Hello! I'm Dexa Milan 👋
 
 ## 🎓 Undergraduate at University of Central Lancashire
 I'm a 19-year-old software engineering student with a background in Mathematics.
